@@ -1,0 +1,16 @@
+{
+  "stock_ticker": "AAPL",
+  "market_index": "^GSPC",
+  "country": "United States",
+  "tax_rate": 0.21,
+  "market_value_debt": 100000000000,
+  "market_value_equity": 3000000000000,
+  "domestic_revenue_pct": 45.0,
+  "sector_domestic_revenue_pct": 50.0,
+  "equity_risk_premium_sp500": 5.5,
+  "bond_market_stddev": 0.15,
+  "longest_gov_bond_rate": 4.5,
+  "country_default_spread": 0.0,
+  "terminal_growth_rate": 3.0,
+  "other_countries": []
+}
